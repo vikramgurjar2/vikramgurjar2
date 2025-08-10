@@ -8,16 +8,18 @@
   <img src="https://i.pinimg.com/originals/f3/0c/c4/f30cc48b1f7decb8a9cc27dbdfc21a15.gif" alt="coding-pixel" width="800"/>
 </p>
 
----
 
-<!-- Badges -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vikramgurjar2&label=Profile%20views&color=0e75b6&style=flat" alt="VikramGurjar" /> 
-  <img src="https://img.shields.io/badge/Code-MERN-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
-  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C" />
 </p>
 
----
+### 🌐 Connect with me:
+<p>
+  <a href="https://linkedin.com/in/vikram-gurjar-" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:v_sgurjar@bt.iitr.ac.in"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/vikramgurjar_8/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=black" /></a>
+</p>
 
 ### 🛠 Languages and Tools:
 <p align="center">
@@ -38,7 +40,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1685982753/press/cloudinary_icon_blue.svg" alt="cloudinary" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </p>
@@ -52,15 +53,13 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramgurjar2&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/>
+
   <img src="https://github-readme-stats.vercel.app/api?username=vikramgurjar2&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikramgurjar2&theme=radical" alt="streak" />
 </p>
 
 ---
 
-### 🌐 Connect with me:
-<p>
-  <a href="https://linkedin.com/in/vikram-gurjar-" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:v_sgurjar@bt.iitr.ac.in"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/vikramgurjar_8/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=black" /></a>
-</p>
+
