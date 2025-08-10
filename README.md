@@ -44,7 +44,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </p>
 
-
+### 🏆 Coding Profiles:
+<p align="center">
+  <a href="https://leetcode.com/u/vikramgurjar_8/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.naukri.com/code360/profile/c3ca9b13-8088-4659-bfed-13833c9084af">
+    <img src="https://img.shields.io/badge/Code360-0A66C2?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Code360"/>
+  </a>
+  <a href="https://www.interviewbit.com/profile/vikram-gurjar/">
+    <img src="https://img.shields.io/badge/InterviewBit-3B5998?style=for-the-badge&logo=interviewbit&logoColor=white" alt="InterviewBit"/>
+  </a>
+</p>
 
 
 ---
