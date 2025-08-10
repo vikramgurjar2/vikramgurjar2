@@ -19,45 +19,33 @@
 
 ---
 
-### 👨‍💻 About Me:
-- 🎓 Final-year B.Tech student at **IIT Roorkee** (Biosciences and Bioengineering)
-- 🔭 Currently working on **AI-powered full stack applications**
-- 🌱 Learning **System Design** and **Advanced Backend Architectures**
-- 💬 Ask me about **Web Development, MERN Stack, C++**
-- 📫 How to reach me: **v_sgurjar@bt.iitr.ac.in**
-- ⚡ Fun fact: *I code better with coffee ☕ and pixel art 🎨*
+
+
+---
+---
+
+### 🛠 Languages and Tools:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</p>
+
+
 
 ---
 
-### 🚀 Work Experience:
-**Front-End Developer Intern @ Collabkart** *(Jun 2024 – Aug 2024)*  
-- Built dynamic frontend using React, Redux Toolkit, and React Hook Form  
-- Integrated backend APIs for dynamic content rendering  
-- Established Git workflow eliminating merge conflicts via systematic branching strategies  
 
-**Full Stack Development Intern @ WorkEase** *(May 2023 – Jul 2023)*  
-- Developed a full-stack platform using **MERN**  
-- Implemented secure authentication & role-based access  
-- Designed responsive UI with TailwindCSS  
-
----
-
-### 🛠 Skills & Tech Stack:
-- **Languages:** C++, JavaScript, SQL, HTML, CSS  
-- **Frontend:** React.js, TailwindCSS, Redux, Bootstrap  
-- **Backend:** Node.js, Express.js  
-- **Databases:** MongoDB, PostgreSQL  
-- **Other Tools:** Kafka, WebRTC, JWT, OAuth, Git, VS Code  
-- **Core Skills:** DSA, DBMS, OOP, OS, AI API Integration  
-
----
-
-### 📂 Featured Projects:
-- [**Stock Analyst ChatGPT**](https://github.com/vikramgurjar2/Stock-Analyst-ChatGpt) — AI-powered stock analysis with Google Gemini & Alpha Vantage APIs  
-- [**CareTakr - Real-Time Health Monitoring**](https://github.com/vikramgurjar2/CareTaker) — Scalable telehealth platform with WebRTC & AI chatbot support  
-- [**Library Management System**](https://github.com/vikramgurjar2/LibraryManagement-) — Role-based library management for IIT Roorkee  
-
----
 
 ### 📊 GitHub Stats:
 <p align="center">
