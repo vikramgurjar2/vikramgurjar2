@@ -19,13 +19,6 @@
 
 ---
 
-
-
----
----
-
----
-
 ### 🛠 Languages and Tools:
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
