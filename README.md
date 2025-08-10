@@ -14,18 +14,29 @@
   <img src="https://komarev.com/ghpvc/?username=vikramgurjar2&label=Profile%20views&color=0e75b6&style=flat" alt="VikramGurjar" /> 
 </p>
 
+<p align="center">
+  <ul>
+    <li>🎓  B.Tech graduate from IIT Roorkee </li>
+    <li>💻 Passionate about building scalable full-stack applications</li>
+    <li>🤖 Experienced in integrating AI into real-world products</li>
+    <li>📈 Strong foundation in DSA, DBMS, OOPs and OS</li>
+  </ul>
+</p>
+
 ### 🌐 Connect with me:
 <p>
   <a href="https://linkedin.com/in/vikram-gurjar-" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:v_sgurjar@bt.iitr.ac.in"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/vikramgurjar_8/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=black" /></a>
-</p>
+ </p>
+
+
 
 ### 🛠 Languages and Tools:
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
@@ -33,6 +44,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
@@ -44,17 +56,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </p>
 
+
 ### 🏆 Coding Profiles:
 <p align="center">
+   <a href="https://www.interviewbit.com/profile/vikram-gurjar/">
+    <img src="https://img.shields.io/badge/InterviewBit-3B5998?style=for-the-badge&logo=interviewbit&logoColor=white" alt="InterviewBit"/>
+  </a>
+   <a href="https://www.naukri.com/code360/profile/c3ca9b13-8088-4659-bfed-13833c9084af">
+    <img src="https://img.shields.io/badge/Code360-0A66C2?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Code360"/>
+  </a>
   <a href="https://leetcode.com/u/vikramgurjar_8/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://www.naukri.com/code360/profile/c3ca9b13-8088-4659-bfed-13833c9084af">
-    <img src="https://img.shields.io/badge/Code360-0A66C2?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Code360"/>
-  </a>
-  <a href="https://www.interviewbit.com/profile/vikram-gurjar/">
-    <img src="https://img.shields.io/badge/InterviewBit-3B5998?style=for-the-badge&logo=interviewbit&logoColor=white" alt="InterviewBit"/>
-  </a>
+ 
+ 
 </p>
 
 
